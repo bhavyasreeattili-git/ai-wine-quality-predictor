@@ -55,16 +55,7 @@ Streamlit
 
 Pickle
 
-📁 Project Structure
-Wine-Quality-Prediction/
-│
-├── app.py                # Streamlit web application
-├── model.pkl             # Trained machine learning model
-├── scaler.pkl            # Feature scaling model
-├── requirements.txt      # Project dependencies
-├── notebook.ipynb        # Model training notebook
-└── README.md             # Project documentation
-🌐 Application Features
+
 
 User-friendly Streamlit interface
 
@@ -74,16 +65,6 @@ Input-based prediction system
 
 Scaled feature preprocessing
 
-Instant result display
-
-▶️ How to Run the Project
-1️⃣ Clone Repository
-git clone https://github.com/your-username/wine-quality-prediction.git
-cd wine-quality-prediction
-2️⃣ Install Dependencies
-pip install -r requirements.txt
-3️⃣ Run Streamlit App
-streamlit run app.py
 🎯 Learning Outcomes
 
 End-to-End Machine Learning Project Development
